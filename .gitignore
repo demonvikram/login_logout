@@ -1,0 +1,30 @@
+# Dependency directories
+node_modules/
+
+# Optional: Logs and debugging files
+logs
+*.log
+npm-debug.log*
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Environment variables
+.env
+
+# Optional: Coverage directory
+coverage/
+
+# Optional: Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: Directory for compiled addons
+build/
+
+# Optional: Directory for distributable output
+dist/
+
